@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Hotel De Stallion" />
+        <Description value="Adds my Hotel De Stallion to the RWGMixer" />
+        <Author value="Stallionsden" />
+        <Version value="StableA17" />
+    </ModInfo>
+</xml>
