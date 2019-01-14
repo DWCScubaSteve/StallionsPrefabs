@@ -6,6 +6,7 @@
 	<prefab name="xcostum_ThemePark(by_stallionsden)" min_count="1" max_count="1" prob="0.005" />
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">
@@ -14,6 +15,7 @@
 	<prefab name="xcostum_ThemePark(by_stallionsden)" min_count="1" max_count="1" prob="0.005" />
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">
@@ -22,6 +24,7 @@
 	<prefab name="xcostum_ThemePark(by_stallionsden)" min_count="1" max_count="1" prob="0.005" />
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">
@@ -30,6 +33,7 @@
 	<prefab name="xcostum_ThemePark(by_stallionsden)" min_count="1" max_count="1" prob="0.005" />
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">
@@ -38,6 +42,7 @@
 	<prefab name="xcostum_ThemePark(by_stallionsden)" min_count="1" max_count="1" prob="0.005" />
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrial_Bldgs']">
@@ -46,6 +51,7 @@
 	<prefab name="xcostum_ThemePark(by_stallionsden)" min_count="1" max_count="1" prob="0.005" />
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">
@@ -54,6 +60,7 @@
 	<prefab name="xcostum_ThemePark(by_stallionsden)" min_count="1" max_count="1" prob="0.005" />
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
    <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialOldGroup']">
