@@ -1,0 +1,9 @@
+﻿<stallionsden>
+  <!-- Adds My Area 51 to the prefab_rule of each group -->
+   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">
+    <prefab name="xcostum_Area51(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
+  </append>  
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">
+    <prefab name="xcostum_Area51(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
+  </append>
+  </stallionsden>
