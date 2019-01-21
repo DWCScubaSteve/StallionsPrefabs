@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True"/>
+    <property name="AllowTopSoilDecorations" value="True"/>
+    <property name="TraderArea" value="False"/>
+    <property name="ExcludeDistantPOIMesh" value="False"/>
+    <property name="ExcludePOICulling" value="False"/>
+    <property name="DifficultyTier" value="1"/>
+    <property name="Zoning" value="ResidentialNew,ResidentialOld,Residential"/>
+    <property name="YOffset" value="-1"/>
+    <property name="DistantPOIYOffset" value="0"/>
+    <property name="Condition" value="Old"/>
+    <property name="Age" value="Old"/>
+    <property name="StaticSpawner.Class" value="SpawnSmall"/>
+    <property name="StaticSpawner.Size" value="32, 2, 32"/>
+    <property name="StaticSpawner.Trigger" value="160"/>
+    <property name="AllowedBiomes" value="burnt_forest,snow,plains,pine_forest,forest,desert,wasteland_hub,wasteland"/>
+    <property name="AllowedTownships" value="city,rural,town,wilderness"/>
+    <property name="DisallowedBiomes" value="water,radiated"/>
+    <property name="EditorGroups" value="government, house old, oldwest, out buildings, rural, Wilderness"/>
+    <property name="SleeperVolumeStart" value="43,8,44#43,8,44#0,0,28#0,0,0#0,0,6#2,0,0#0,0,9#24,0,1#23,0,14#43,8,44#0,7,22#2,7,0"/>
+    <property name="SleeperVolumeSize" value="-41,-6,-42#-41,-6,-42#14,11,18#13,11,16#38,11,14#19,7,5#40,11,33#21,11,28#22,11,30#-41,-6,-42#36,4,24#36,4,9"/>
+    <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Soldier,1,1,S_-_Group_Ghost_Town,1,1,S_-_Group_Ghost_Town,1,4,S_-_Group_Ghost_Town,1,7,S_Zom_Burnt,2,15,S_Zom_Burnt,1,4,S_-_Group_Ghost_Town,5,38,S_Zom_Burnt,2,19,S_-Group_Generic_Zombie,3,20,S_Zom_Burnt,1,1,S_Zom_Burnt,1,10,S_-_Group_Zom_Soldier,1,2"/>
+    <property name="SleeperVolumeGameStageAdjust" value="250,200,250,medium,200,easy,350,medium,350,medium,easy,medium"/>
+    <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False,False,False"/>
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False"/>
+</prefab>

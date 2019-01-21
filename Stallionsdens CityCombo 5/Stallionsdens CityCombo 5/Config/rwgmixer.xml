@@ -1,0 +1,31 @@
+﻿<stallionsden>
+  <!-- Adds My Hotel to the prefab_rule of each group -->
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='commercialGroup']">
+    <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">
+    <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">
+    <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">
+    <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">
+    <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrial_Bldgs']">
+    <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">
+    <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='storeGroup']">
+  <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	</append>
+  </stallionsden>

@@ -1,0 +1,29 @@
+﻿<stallionsden>
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">
+    <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">
+    <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialOldGroup']">
+    <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 </append>
+  
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialNewGroup']">
+    <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 </append> 
+
+	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldResidential_Bldgs']">
+    <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldResidential_abandoned_Burnt_Homes']">
+    <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldwest_bldgs']">
+    <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>	
+  </stallionsden>

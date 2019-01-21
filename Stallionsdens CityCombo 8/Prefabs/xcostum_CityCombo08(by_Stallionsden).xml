@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True"/>
+    <property name="AllowTopSoilDecorations" value="True"/>
+    <property name="TraderArea" value="False"/>
+    <property name="ExcludeDistantPOIMesh" value="False"/>
+    <property name="ExcludePOICulling" value="False"/>
+    <property name="DifficultyTier" value="1"/>
+    <property name="Zoning" value="Commercial,Downtown,Industrial"/>
+    <property name="RotationToFaceNorth" value="0"/>
+    <property name="YOffset" value="-1"/>
+    <property name="DistantPOIYOffset" value="0"/>
+    <property name="Condition" value="New"/>
+    <property name="Age" value="Normal"/>
+    <property name="StaticSpawner.Class" value="SpawnSmall"/>
+    <property name="StaticSpawner.Size" value="32, 2, 32"/>
+    <property name="StaticSpawner.Trigger" value="160"/>
+    <property name="AllowedBiomes" value="burnt_forest,snow,plains,pine_forest,forest,desert,wasteland_hub,wasteland"/>
+    <property name="AllowedTownships" value="city,rural,town,wilderness"/>
+    <property name="DisallowedBiomes" value="water,radiated"/>
+    <property name="EditorGroups" value="industrial, rural, Wilderness, commercial, downtown, government"/>
+    <property name="SleeperVolumeStart" value="43,13,43#43,13,43#43,13,43#0,0,0#0,0,34#6,0,34#6,0,0#15,0,3#15,0,33#25,0,0#2,1,29#2,1,17#25,1,17#25,1,29#2,5,15#25,3,17"/>
+    <property name="SleeperVolumeSize" value="-41,-11,-41#-41,-11,-41#-41,-11,-41#17,16,20#17,16,11#22,16,11#33,16,20#15,16,40#29,16,12#20,16,18#17,7,6#18,5,13#18,5,13#15,12,6#18,11,20#20,13,24"/>
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,1,1,S_Zom_Utility_Worker,1,12,S_Zom_Businessman,1,4,S_-Group_Generic_Zombie,1,7,S_Zom_Businessman,3,20,S_-Group_Generic_Zombie,3,20,S_Zom_Utility_Worker,2,15,S_Zom_Businessman,1,12,S_Zom_Utility_Worker,1,2,S_Zom_Businessman,1,5,S_Zom_Utility_Worker,1,5,S_Zom_Utility_Worker,1,4,S_-Group_Generic_Zombie,1,9,S_-Group_Generic_Zombie,1,12"/>
+    <property name="SleeperVolumeGameStageAdjust" value="medium,400,medium,200,250,medium,350,medium,medium,350,250,200,medium,medium,200,250"/>
+    <property name="SleeperIsLootVolume" value="True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False"/>
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False"/>
+</prefab>
