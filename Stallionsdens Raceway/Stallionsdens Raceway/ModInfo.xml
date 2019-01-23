@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Stallionsdens Raceway" />
+        <Description value="Adds my Raceway to the RWGMixer" />
+        <Author value="Stallionsden" />
+        <Version value="StableA17" />
+    </ModInfo>
+</xml>
