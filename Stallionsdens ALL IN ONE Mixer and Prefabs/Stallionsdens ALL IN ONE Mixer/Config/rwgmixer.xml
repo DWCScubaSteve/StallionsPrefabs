@@ -7,6 +7,19 @@
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo04(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo06(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo07(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo08(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo09(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo13(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo14(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo17(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo18(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_A17Racetrack(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='downtownGroup']">
@@ -16,6 +29,19 @@
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo04(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo06(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo07(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo08(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo09(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo13(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo14(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  	  <prefab name="xcostum_CityCombo17(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo18(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_A17Racetrack(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrialGroup']">
@@ -25,6 +51,19 @@
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo04(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo06(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo07(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo08(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo09(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo13(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo14(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  	  <prefab name="xcostum_CityCombo17(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo18(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_A17Racetrack(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='ruralGroup']">
@@ -34,6 +73,27 @@
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_Area51(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
+	 <prefab name="xcostum_CityCombo01(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo02(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo03(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo04(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo06(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo07(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo08(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo09(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo11(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo12(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo13(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo14(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo15(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo17(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo18(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_A17Racetrack(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='wildernessGroup']">
@@ -43,6 +103,27 @@
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_Area51(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_CityCombo01(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo02(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo03(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo04(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo06(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo07(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo08(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo09(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo11(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo12(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo13(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo14(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo15(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo17(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo18(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>  
+	  <prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_A17Racetrack(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='industrial_Bldgs']">
@@ -52,6 +133,19 @@
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo04(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo06(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo07(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo08(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo09(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo13(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo14(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  	  <prefab name="xcostum_CityCombo17(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo18(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_A17Racetrack(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='townGroup']">
@@ -61,22 +155,91 @@
 	<prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="TheVillage" min_count="1" max_count="1" prob="0.005"/>
 	<prefab name="xcostum_Courthouse(by_stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo04(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo06(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo07(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo08(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo09(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo13(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo14(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  	  <prefab name="xcostum_CityCombo17(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo18(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_NFLStadium_zombies(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		   <prefab name="xcostum_A17Racetrack(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
    <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialOldGroup']">
     <prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
+	 <prefab name="xcostum_CityCombo01(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo02(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	 <prefab name="xcostum_CityCombo03(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo11(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo12(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo15(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='residentialNewGroup']">
     <prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
+	<prefab name="xcostum_CityCombo02(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo03(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo11(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo12(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo15(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='diner_FastfoodGroup']">
     <prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
+	 <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
   </append>
   
   <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='storeGroup']">
     <prefab name="xcostum_PeerCafe(by_Stallionsden)" min_count="1" max_count="1" prob="0.005"/>
-  </append>  
+	  <prefab name="xcostum_CityCombo04(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo05(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo06(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo07(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo08(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo09(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo13(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo14(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  <prefab name="xcostum_CityCombo16(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		  	  <prefab name="xcostum_CityCombo17(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		</append>  
+  
+  <append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldResidential_Bldgs']">
+    <prefab name="xcostum_CityCombo01(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo02(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo03(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo11(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo12(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo15(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldResidential_abandoned_Burnt_Homes']">
+    <prefab name="xcostum_CityCombo01(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo02(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo03(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo11(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo12(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo15(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
+  
+  	<append xpath="/rwgmixer/prefab_rules/prefab_rule[@name='oldwest_bldgs']">
+    <prefab name="xcostum_CityCombo01(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo02(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	<prefab name="xcostum_CityCombo03(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	  <prefab name="xcostum_CityCombo10(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	   <prefab name="xcostum_CityCombo11(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+	    <prefab name="xcostum_CityCombo12(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+		 <prefab name="xcostum_CityCombo15(by_Stallionsden)" min_count="1" max_count="1" prob="0.05"/>
+  </append>
   
   </stallionsden>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True"/>
+    <property name="AllowTopSoilDecorations" value="True"/>
+    <property name="TraderArea" value="False"/>
+    <property name="ExcludeDistantPOIMesh" value="False"/>
+    <property name="ExcludePOICulling" value="False"/>
+    <property name="DifficultyTier" value="1"/>
+    <property name="Zoning" value="Commercial,Downtown,Industrial"/>
+    <property name="YOffset" value="-1"/>
+    <property name="DistantPOIYOffset" value="0"/>
+    <property name="Condition" value="New"/>
+    <property name="Age" value="Normal"/>
+    <property name="StaticSpawner.Class" value="SpawnSmall"/>
+    <property name="StaticSpawner.Size" value="32, 2, 32"/>
+    <property name="StaticSpawner.Trigger" value="160"/>
+    <property name="AllowedBiomes" value="burnt_forest,snow,plains,pine_forest,forest,desert,wasteland_hub,wasteland"/>
+    <property name="AllowedTownships" value="city,rural,town,wilderness"/>
+    <property name="DisallowedBiomes" value="water,radiated"/>
+    <property name="EditorGroups" value="commercial, downtown, industrial, rural, Wilderness"/>
+    <property name="SleeperVolumeStart" value="0,0,7#0,0,28#0,0,0#2,0,30#7,0,1#43,13,43#11,0,0#43,13,43#32,0,9#26,1,17"/>
+    <property name="SleeperVolumeSize" value="8,16,28#16,16,17#27,16,18#33,16,15#23,16,42#-41,-11,-41#33,16,20#-41,-11,-41#13,16,32#12,5,12"/>
+    <property name="SleeperVolumeGroup" value="S_Zom_Businessman,1,2,S_-Group_Generic_Zombie,1,5,S_Zom_Utility_Worker,1,6,S_Zom_Businessman,1,11,S_-Group_Generic_Zombie,3,26,S_Zom_Utility_Worker,1,1,S_Zom_Businessman,1,12,S_Zom_Utility_Worker,1,1,S_Zom_Businessman,1,8,S_Zom_Businessman,1,4"/>
+    <property name="SleeperVolumeGameStageAdjust" value="250,350,easy,400,medium,350,350,250,250,350"/>
+    <property name="SleeperIsLootVolume" value="False,False,False,False,True,False,False,False,False,False"/>
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False"/>
+</prefab>

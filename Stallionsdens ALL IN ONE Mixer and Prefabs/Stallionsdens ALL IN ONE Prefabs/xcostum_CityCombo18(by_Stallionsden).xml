@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True"/>
+    <property name="AllowTopSoilDecorations" value="True"/>
+    <property name="TraderArea" value="False"/>
+    <property name="ExcludeDistantPOIMesh" value="False"/>
+    <property name="ExcludePOICulling" value="False"/>
+    <property name="DifficultyTier" value="1"/>
+    <property name="Zoning" value="Commercial,Downtown,Industrial"/>
+    <property name="YOffset" value="-1"/>
+    <property name="DistantPOIYOffset" value="0"/>
+    <property name="Condition" value="New"/>
+    <property name="Age" value="Normal"/>
+    <property name="StaticSpawner.Class" value="SpawnLarge"/>
+    <property name="StaticSpawner.Size" value="32, 2, 32"/>
+    <property name="StaticSpawner.Trigger" value="160"/>
+    <property name="AllowedBiomes" value="burnt_forest,snow,plains,pine_forest,forest,desert,wasteland_hub,wasteland"/>
+    <property name="AllowedTownships" value="city,rural,town,wilderness"/>
+    <property name="DisallowedBiomes" value="water,radiated"/>
+    <property name="EditorGroups" value="industrial, rural, Wilderness, commercial, downtown, government"/>
+    <property name="SleeperVolumeStart" value="43,40,43#0,0,0#0,0,4#0,0,22#0,0,4#1,0,20#1,0,0#16,1,13#24,1,3#43,40,43#43,40,43#16,1,25#43,40,43#35,1,20#0,5,4#0,5,37#2,5,12#16,5,3#5,5,19#24,5,3#34,5,3#34,4,13#0,10,0#16,8,2#0,13,0#0,22,22#0,25,4#0,29,37#0,34,4#43,40,43#43,40,43#43,40,43"/>
+    <property name="SleeperVolumeSize" value="-41,-38,-41#7,23,5#7,6,15#8,5,23#17,6,25#16,5,25#20,27,10#9,10,12#11,5,13#-41,-38,-41#-41,-38,-41#23,5,18#-41,-38,-41#10,28,25#17,5,28#16,5,8#18,5,33#9,6,11#36,37,26#11,8,18#9,6,11#9,7,8#18,7,40#29,35,35#35,16,37#18,7,23#16,10,32#9,5,8#16,9,21#-41,-38,-41#-41,-38,-41#-41,-38,-41"/>
+    <property name="SleeperVolumeGroup" value="S_-_Group_Zom_Soldier,1,1,S_Zom_Burnt,1,1,S_-_Group_Ghost_Town,1,4,S_-_Group_Lab_Worker,1,6,S_-_Group_Zom_Badass_Only,1,12,S_-_Group_Zom_Soldier,1,10,S_-_Group_Abandoned_House,2,14,S_-_Group_Lab_Worker,1,1,S_-Group_Generic_Zombie,1,1,S_-_Group_Football_Stadium,1,1,S_-_Group_Football_Stadium,1,1,S_Zom_Utility_Worker,1,1,S_-_Group_Lab_Worker,1,1,S_Zom_HazMat_Only,1,8,S_-Group_Generic_Zombie,1,9,S_Zom_Businessman,1,2,S_-Group_Generic_Zombie,2,13,S_-_Group_Football_Stadium,1,1,S_-_Group_Zom_Badass,7,51,S_-Group_Generic_Zombie,1,5,S_Zom_HazMat_Only,1,1,S_-_Group_Lab_Worker,1,1,S_-_Group_Lab_Worker,2,14,S_-_Group_Zom_Badass,2,18,S_Zom_Burnt,3,24,S_Zom_Utility_Worker,1,8,S_-_Group_Hospital,1,9,S_-_Group_Zom_Badass,1,2,S_Zom_Burnt,1,8,S_-_Group_Zom_Badass_Only,1,1,S_-_Group_Football_Stadium,1,1,S_Zom_Utility_Worker,1,1"/>
+    <property name="SleeperVolumeGameStageAdjust" value="250,easy,200,400,350,medium,250,200,250,200,350,200,400,400,250,medium,medium,350,medium,medium,medium,medium,350,350,350,200,medium,350,250,250,250,250"/>
+    <property name="SleeperIsLootVolume" value="False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False"/>
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False"/>
+</prefab>

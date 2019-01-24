@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True"/>
+    <property name="AllowTopSoilDecorations" value="True"/>
+    <property name="TraderArea" value="False"/>
+    <property name="ExcludeDistantPOIMesh" value="False"/>
+    <property name="ExcludePOICulling" value="False"/>
+    <property name="DifficultyTier" value="1"/>
+    <property name="Zoning" value="Commercial,Downtown,Industrial"/>
+    <property name="YOffset" value="-1"/>
+    <property name="DistantPOIYOffset" value="0"/>
+    <property name="Condition" value="New"/>
+    <property name="Age" value="Normal"/>
+    <property name="StaticSpawner.Class" value="SpawnSmall"/>
+    <property name="StaticSpawner.Size" value="32, 2, 32"/>
+    <property name="StaticSpawner.Trigger" value="160"/>
+    <property name="AllowedBiomes" value="burnt_forest,snow,plains,pine_forest,forest,desert,wasteland_hub,wasteland"/>
+    <property name="AllowedTownships" value="city,rural,town,wilderness"/>
+    <property name="DisallowedBiomes" value="water,radiated"/>
+    <property name="EditorGroups" value="oldwest, Wilderness, rural, house old, HOUSE CONST, downtown, commercial"/>
+    <property name="SleeperVolumeStart" value="43,13,43#0,0,0#0,0,12#0,0,32#0,0,29#3,0,0#27,0,34#43,13,43"/>
+    <property name="SleeperVolumeSize" value="-41,-11,-41#20,16,21#8,16,23#14,16,13#37,16,16#41,16,33#18,16,11#-41,-11,-41"/>
+    <property name="SleeperVolumeGroup" value="S_-Group_Generic_Zombie,1,1,S_Zom_Utility_Worker,1,10,S_Zom_Utility_Worker,1,3,S_Zom_Businessman,1,4,S_Zom_Utility_Worker,1,12,S_Zom_Businessman,5,33,S_Zom_Utility_Worker,1,4,S_Zom_Businessman,1,1"/>
+    <property name="SleeperVolumeGameStageAdjust" value="250,250,250,350,medium,250,250,350"/>
+    <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False"/>
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False"/>
+</prefab>

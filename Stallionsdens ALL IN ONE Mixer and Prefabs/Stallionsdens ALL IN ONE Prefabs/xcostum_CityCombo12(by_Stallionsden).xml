@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prefab>
+    <property name="CopyAirBlocks" value="True"/>
+    <property name="AllowTopSoilDecorations" value="True"/>
+    <property name="TraderArea" value="False"/>
+    <property name="ExcludeDistantPOIMesh" value="False"/>
+    <property name="ExcludePOICulling" value="False"/>
+    <property name="DifficultyTier" value="1"/>
+    <property name="Zoning" value="ResidentialNew,ResidentialOld,Residential"/>
+    <property name="YOffset" value="-1"/>
+    <property name="DistantPOIYOffset" value="0"/>
+    <property name="Condition" value="Old"/>
+    <property name="Age" value="Old"/>
+    <property name="StaticSpawner.Class" value="SpawnSmall"/>
+    <property name="StaticSpawner.Size" value="32, 2, 32"/>
+    <property name="StaticSpawner.Trigger" value="160"/>
+    <property name="AllowedBiomes" value="burnt_forest,snow,plains,pine_forest,forest,desert,wasteland_hub,wasteland"/>
+    <property name="AllowedTownships" value="city,rural,town,wilderness"/>
+    <property name="DisallowedBiomes" value="water,radiated"/>
+    <property name="EditorGroups" value="government, house old, oldwest, rural, out buildings, Wilderness"/>
+    <property name="SleeperVolumeStart" value="0,0,14#0,0,0#0,0,2#0,0,42#43,8,43#4,0,8#43,8,43#18,0,7#25,0,0#9,5,33"/>
+    <property name="SleeperVolumeSize" value="15,11,28#12,11,13#19,11,27#23,7,3#-41,-6,-41#38,11,13#-41,-6,-41#27,11,38#20,11,18#26,4,10"/>
+    <property name="SleeperVolumeGroup" value="S_-_Group_Abandoned_House,2,14,S_-Group_Generic_Zombie,1,4,S_-_Group_Abandoned_House,3,20,S_-Group_Generic_Zombie,1,2,S_Zom_Burnt,1,1,S_Zom_Burnt,2,15,S_-_Group_Abandoned_House,1,1,S_-Group_Generic_Zombie,4,28,S_-_Group_Abandoned_House,1,8,S_-_Group_Ghost_Town,1,7"/>
+    <property name="SleeperVolumeGameStageAdjust" value="250,easy,medium,350,250,400,250,medium,400,250"/>
+    <property name="SleeperIsLootVolume" value="False,False,False,False,False,False,False,False,False,False"/>
+    <property name="SleeperIsBossVolume" value="False,False,False,False,False,False,False,False,False,False"/>
+</prefab>
